@@ -96,7 +96,9 @@ FOCUS:      CIBERSEGURIDAD
 AVANCE:     ████████░░░░░░░░░░░░░░░░░░░░  [██]%
 DESDE:      [2025]
 LÍNEA:      [ofensiva | defensiva | ambas]
-CURSOS:     [Introducción a la ciberseguridad - NETACAD CISCO], [CC – Certified in Cybersecurity - ISC2 ], [AWS Technical Essentials - AWS], Auditor ISO 27001:2022 Fundamentals - Hacker Mentor], [Linux Essential - Netacad], [Networking Basic - Netacad]
+CURSOS:     [Introducción a la ciberseguridad - NETACAD CISCO], [CC – Certified in Cybersecurity - ISC2 ],
+            [AWS Technical Essentials - AWS], Auditor ISO 27001:2022 Fundamentals - Hacker Mentor],
+            [Linux Essential - Netacad], [Networking Basic - Netacad]
 PRÓXIMO:    [CCNA | Laboratorios | CTF
 
 ```
